@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.caption{
+    padding:  30px 0px;
+}
+.caption h1{
+    font-size: 45px;
+}
+.container{
+    margin-top: 10%;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.line1{
+    display: flex;
+    
+}
+.line1 h1{
+    font-size: 60px;
+    font-weight: 400;
+}
+.line1 p{
+    margin-top: 12px;
+    margin-left: 10px;
+    font-size: 17px;
+    
+}
+
+
+
+
+
